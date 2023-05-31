@@ -7,7 +7,7 @@ public class Main {
 		atms.printATMS();
 		atms.printDistancesGraphAs2D();
 		
-		
+		//test
 		
 		
 		
